@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "sandb0xn0d3",
+  "repo": "container-xsyk-8",
+  "name": "sandb0xn0d3",
+  "email": "sandboxnode1@centralsatu.link",
+}
